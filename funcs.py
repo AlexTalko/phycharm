@@ -4,4 +4,3 @@ def summ(a, b):
 
 def subtraction(a, b):
     print(f"{a - b}")
-
